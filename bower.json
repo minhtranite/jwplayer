@@ -1,0 +1,17 @@
+{
+  "name": "jwplayer7",
+  "version": "7.1.0",
+  "description": "JW Player is a the world's most popular embeddable media player",
+  "main": "jwplayer.js",
+  "keywords": [
+    "jwplayer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
